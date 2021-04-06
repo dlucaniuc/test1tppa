@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">test1tppa</string>
     <string-array name="units">
+        <item>mm</item>
         <item>cm</item>
+        <item>m</item>
+        <item>km</item>
         <item>inch</item>
     </string-array>
-
 </resources>
